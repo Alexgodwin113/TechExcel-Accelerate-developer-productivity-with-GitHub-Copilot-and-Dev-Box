@@ -15,7 +15,7 @@ This lab has exercises on:
 * Set up the development environment
 * Start working in GitHub
 * Improve and deploy your application
-* Make things secure
+* Make things secured
 * Fix a performance issue using GitHub Copilot
 
 The lab is available as GitHub pages [here](https://microsoft.github.io/TechExcel-Accelerate-developer-productivity-with-GitHub-Copilot-and-Dev-Box)
