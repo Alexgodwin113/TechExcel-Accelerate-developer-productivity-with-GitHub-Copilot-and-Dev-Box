@@ -5,7 +5,7 @@ theme: just-the-docs
 # url: https://microsoft.github.io/TechExcel-Accelerate-developer-productivity-with-GitHub-Copilot-and-Dev-Box/
 
 aux_links:
-  "TechExcel: Accelerate developer productivity with GitHub Copilot and Dev Box": 
+  "TechExcel: Accelerate developer productivity GitHub Copilot and Dev Box": 
     - "https://github.com/microsoft/TechExcel-Accelerate-developer-productivity-with-GitHub-Copilot-and-Dev-Box"
 callouts_level: quiet # or loud
 callouts:
