@@ -3,7 +3,7 @@ name: Manual Workflow
 on:
   workflow_dispatch:
 
-env: # Define environment variables for the entire workflow
+env: # Define environment variables for the entire workflows
   MY_VARIABLE: "Hello from env variable!"
 
 jobs:
